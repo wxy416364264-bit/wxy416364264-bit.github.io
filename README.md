@@ -61,15 +61,15 @@
     <div class="wrap nav">
       <div class="brand">
         
-        <span>王馨怡</span>
+        <span>Hello！</span>
       </div>
       <nav>
         <a href="#about">关于我</a>
-        <a href="#experience">经历</a>
-        <a href="#projects">项目</a>
-        <a href="#research">科研</a>
-        <a href="#awards">荣誉</a>
-        <a href="#contact">联系</a>
+        <a href="#experience">实习经历</a>
+        <a href="#projects">项目实践</a>
+        <a href="#research">科研成果</a>
+        <a href="#awards">荣誉奖项</a>
+        <a href="#contact">联系方式</a>
       </nav>
     </div>
   </header>
